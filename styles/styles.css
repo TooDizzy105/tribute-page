@@ -1,0 +1,15 @@
+#main {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+#title {
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+#img-div #image {
+    max-width: 100%;
+    height: auto;
+}
